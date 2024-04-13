@@ -2,7 +2,7 @@
 Slither through a new competitive version of Snake and survive as long as you can! Challenge your friends and try to be the biggest snake.
 
 ## How to play
-- Open the `Snake Game.exe` file and start playing.
+- Extract the `Snake Game.zip` file and start playing.
 - Use the arrow keys to move the snake
 - Eat the food to grow
 - Avoid running into the walls or yourself
